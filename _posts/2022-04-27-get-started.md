@@ -1,8 +1,8 @@
 ---
 title: 开始
 date: 2022-04-27 23:02:00 +0800
-categories: [记录]
-tags: [开始]
+categories: [随笔]
+tags: [三省]
 render_with_liquid: false
 ---
 

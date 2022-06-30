@@ -39,6 +39,11 @@ Run the following command in the root directory of the site:
 $ bundle exec jekyll s
 ```
 
+## TroubleShooting
+
+### Ruby version not correct in zshrc
+The latest ruby version is higher than ruby-3.1.1, so after the `ruby-install ruby`, you should type `chruby` in the terminal to get the installed ruby version, and then update the `chruby ruby-3.1.1` in  `~/.zshrc` file.
+
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
