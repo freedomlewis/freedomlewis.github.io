@@ -61,7 +61,8 @@ With 13 years of experience in mobile platform development, I has led the archit
 - Android developer
     - App development including Launcher, Theme Store, Contacts
     - Framework development, mainly in package management
-    - System optimization, mostly in App start speed and resource usage
+    - System optimization, mostly in App start speed and resource usage  
+    
 ## Skills
 - Android
 - iOS
