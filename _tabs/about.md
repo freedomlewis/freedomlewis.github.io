@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Wenjuan Li &nbsp; | &nbsp; Male &nbsp; | &nbsp; Bachelor of Software Engineer  
-Tel: +86 18502936964 &nbsp; | &nbsp; Email: oppolewis@gmail.com
+Lewis Lee &nbsp; | &nbsp; Male &nbsp; | &nbsp; Bachelor of Software Engineer  
+Email: oppolewis@gmail.com
 
 ## Profile 
 With 13 years of experience in mobile platform development, I has led the architecture design of several large mobile applications (Welink, Starbucks, Roomis, TAGG, BizConf etc.). Leading the design and development management of a variety of mobile phone system software during OPPO's work.
@@ -62,7 +62,7 @@ With 13 years of experience in mobile platform development, I has led the archit
     - App development including Launcher, Theme Store, Contacts
     - Framework development, mainly in package management
     - System optimization, mostly in App start speed and resource usage  
-    
+
 ## Skills
 - Android
 - iOS
