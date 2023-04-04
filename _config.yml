@@ -50,7 +50,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification:               # fill in to your verification string
+google_site_verification: google00d8d3d181b1bfee.html               # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -186,6 +186,7 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
+  - google00d8d3d181b1bfee.html
 
 jekyll-archives:
   enabled: [categories, tags]
