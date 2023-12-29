@@ -8,12 +8,6 @@ Lewis Lee &nbsp; | &nbsp; Male &nbsp; | &nbsp; Bachelor of Software Engineer
 Email: oppolewis@gmail.com
 
 ## Profile 
-13 years experiences in software development, mainly mobile.    
-The products covered photo and video social, online medical care, K12 education, retail, office IT, etc.   
-The scale of users ranges from millions to over 100 million.  
-The technologies used include Native(android and iOS), Web, Hybrid, ReactNative, etc.  
-Rich experiences in high-quality development, architecture design, performance tuning, etc. 
-
 **13+ years of mobile software development expertise**, shaping diverse products from photo & video social media to online healthcare and K12 education. Proven ability to manage **projects serving millions of users**, spanning native (Android & iOS), web, hybrid, and React Native technologies. Adept at delivering **high-quality code, architecting scalable solutions, and optimizing performance**. 
 
 ## Employment History
