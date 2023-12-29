@@ -158,21 +158,22 @@ Rich experiences in high-quality development, architecture design, performance t
         - Apache MINA
 
 ### OPPO (2010 - 2013)
-- Software Project Manager
-    - Make an overall development plan for the project
-    - Solve the program bottlenecks
-    - Follow up on the project progress, and ensure timely release
+- Android Developer & Project Manager
+    - Developed custom ROM enhancements for performance and stability using Java & C++
+    - Architected and delivered core system apps like Launcher, Theme Store, and Contacts, including personalization features and performance optimizations
+    - Led cross-functional teams to successfully deliver 2 complex projects within demanding timelines, leveraging Agile methodologies and strong communication skills
 
-- Android developer
-    - App development including Launcher, Theme Store, Contacts
-    - Framework development, mainly in package management
-    - System optimization, mostly in App start speed and resource usage  
+## Technical Expertise
+- Mobile Development:
+    - Android (Java, Kotlin, Android Studio)
+    - iOS (Swift, Objective-C, Xcode)
 
-## Skills
-- Android
-- iOS
-- React, TypeScript
-- Python
+- Web Development:
+    - React (JavaScript, JSX, Hooks)
+    - TypeScript
+
+- Back-End Development:
+    - Python (Django, Flask)
 
 ## Education
 2006 - 2010 Software Engineering,  Northwestern Polytechnical University
