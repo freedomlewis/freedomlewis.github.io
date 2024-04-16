@@ -1,7 +1,7 @@
 ---
 title: 是非，毁誉，得失
 date: 2022-07-19 15:42:00 +0800
-categories: [修身]
+categories: [Self-improvement]
 tags: [Poem]
 render_with_liquid: false
 ---

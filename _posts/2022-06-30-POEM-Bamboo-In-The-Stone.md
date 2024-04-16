@@ -1,7 +1,7 @@
 ---
 title: 竹石
 date: 2022-06-30 10:04:00 +0800
-categories: [修身]
+categories: [Self-improvement]
 tags: [Poem]
 render_with_liquid: false
 ---
