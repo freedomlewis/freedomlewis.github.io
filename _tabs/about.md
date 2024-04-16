@@ -64,7 +64,7 @@ Email: oppolewis@gmail.com
         - tailwind
 
 ### ThoughtWorks (2017 - 2020)
-- [Starbucks China App (Retail App)](https://appgallery.huawei.com/app/C100108223)
+- [Starbucks China App (Retail Store)](https://play.google.com/store/search?q=starbucks%20china&c=apps)
     - About: The official Starbucks China App. The perfect way to enjoy your favorite coffee, your way.
 
     - My Responsibility:
@@ -109,9 +109,10 @@ Email: oppolewis@gmail.com
         - Dagger
         - RxJava
         - Java
+        - VLC
 
       
-- [TAGG (Social Style Sharing App)](https://apkpure.com/tagg-style-fashion-life/com.boyeah.tagg)
+- [TAGG (Social Style Sharing Platform)](https://apkpure.com/tagg-style-fashion-life/com.boyeah.tagg)
     - About: TAGG is a cool app for people around the world to share style, fashion & life.
 
     - My Responsibility:
@@ -147,7 +148,7 @@ Email: oppolewis@gmail.com
         - FFmpeg
         - Java
 
-- [BizConf Video Pro (Enterprise Video Conferencing)](https://apkpure.com/bizconf-video-pro/cn.bizconf.vcpro)  
+- [BizConf Video Pro (Enterprise Conferencing App)](https://apkpure.com/bizconf-video-pro/cn.bizconf.vcpro)  
     - About: BizConf Video is an enterprise-grade video conferencing service based on SaaS (Software as a Service). It provides a one-stop audio and video interaction platform for users, offering the following key features.
 
     - My Responsibility:
