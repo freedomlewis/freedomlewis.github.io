@@ -1,7 +1,7 @@
 ---
 title: Android 模拟器不能使用电脑的代理网络
 date: 2022-04-28 21:24:00 +0800
-categories: [技术]
+categories: [Tech]
 tags: [Android]
 render_with_liquid: false
 ---

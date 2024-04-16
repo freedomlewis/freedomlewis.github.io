@@ -2,7 +2,7 @@
 title: 定风波
 date: 2022-06-30 09:36:00 +0800
 categories: [修身]
-tags: [摘引]
+tags: [Poem]
 render_with_liquid: false
 ---
 

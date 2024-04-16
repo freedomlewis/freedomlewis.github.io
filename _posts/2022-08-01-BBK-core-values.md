@@ -1,8 +1,8 @@
 ---
 title: 步步高企业文化
 date: 2022-08-01 10:15:00 +0800
-categories: [北极星]
-tags: [阿段]
+categories: [North Star]
+tags: [Core Values]
 render_with_liquid: false
 ---
 

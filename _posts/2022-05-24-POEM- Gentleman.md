@@ -2,7 +2,7 @@
 title: 君子
 date: 2022-05-24 10:25:00 +0800
 categories: [修身]
-tags: [摘引]
+tags: [Poem]
 render_with_liquid: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 段永平 2011 年浙江大学毕业演讲
 date: 2022-08-01 09:51:00 +0800
-categories: [北极星]
-tags: [阿段]
+categories: [North Star]
+tags: [Core Values]
 render_with_liquid: false
 ---
 

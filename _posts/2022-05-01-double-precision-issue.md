@@ -1,7 +1,7 @@
 ---
 title: Kotlin double 精度问题
 date: 2022-05-01 14:18:00 +0800
-categories: [技术]
+categories: [Tech]
 tags: [Android]
 render_with_liquid: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: Do it Anyway — Mother Teresa
 date: 2023-05-17 15:28:00 +0800
-categories: [北极星]
-tags: [摘引]
+categories: [North Star]
+tags: [Poem]
 render_with_liquid: false
 ---
 

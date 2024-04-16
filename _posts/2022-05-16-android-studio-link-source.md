@@ -1,7 +1,7 @@
 ---
 title: Android Studio 手动关联源码
 date: 2022-05-16 17:53:00 +0800
-categories: [技术]
+categories: [Tech]
 tags: [Android]
 render_with_liquid: false
 ---
