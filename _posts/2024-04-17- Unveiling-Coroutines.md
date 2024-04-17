@@ -2,7 +2,7 @@
 title: Unveiling Coroutines - Stackful vs. Stackless and How Kotlin Does It
 date: 2024-04-17 12:12:00 +0800
 categories: [Tech]
-tags: [Android, Coroutine]
+tags: [Coroutine]
 render_with_liquid: false
 ---
 
