@@ -1,6 +1,6 @@
 ---
 title: Building Your Android App (MVC vs. MVP vs. MVVM) - A Smackdown
-date: 2024-04-12 12:29:00 +0800
+date: 2024-04-22 12:29:00 +0800
 categories: [Tech]
 tags: [Architecture, Android]
 render_with_liquid: false
