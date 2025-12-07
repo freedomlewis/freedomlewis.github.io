@@ -23,16 +23,19 @@ Impact more than 10 thousands cost, must have at least 1 week to thinking!
 
 # Rush to make a decision
 
-## 2020-05 Buy the parking space
+## 2025-10 Buy the basement
 
-Make the decision with rush just not want to waste time to thinking it, but get a result with huge mental suffering. 1 or 2 days to make the final decision.
+The purchase was driven by an unrealistic illusion of utility, with no grounded data analysis. The result was a basement that was too distant and caused significant mental burden.
 
 ## 2024-10 Switch between industries
 
 This was a high-impact, critical failure decision. The entire switch was finalized in just 2 days.
 
-## 2025-10 Buy the basement
+## 2020-05 Buy the parking space
 
-The purchase was driven by an unrealistic illusion of utility, with no grounded data analysis. The result was a basement that was too distant and caused significant mental burden.
+Make the decision with rush just not want to waste time to thinking it, but get a result with huge mental suffering. 1 or 2 days to make the final decision.
+
+
+
 
  

@@ -7,13 +7,8 @@ render_with_liquid: false
 ---
 
 # Rush to make a decision
-
 # Over thinking
-
 # Look back too ofen and can not move forward
-
 # Hurt family members
-
 # Hurt team members
-
 # Try to fix the past
